@@ -1,0 +1,29 @@
+.saveBtn,
+.cancelBtn {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border: none;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.cancelBtn {
+    background-color: rgb(197, 78, 78);
+    border-radius: 0 10px 10px 0;
+}
+.saveBtn {
+    background-color: rgb(78, 197, 78);
+    border-radius: 10px 0 0 10px;
+}
+
+.formGroupBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.formGroup {
+    margin: 10px 0;
+}
